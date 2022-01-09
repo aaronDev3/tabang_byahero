@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "545889054165",
+    "project_id": "tabangbyahero",
+    "storage_bucket": "tabangbyahero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545889054165:android:731af8919001662ff5615c",
+        "android_client_info": {
+          "package_name": "com.example.byahero_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545889054165-ohbv8tq3vf5i92r5mkjpg8kterjos9b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClh5OsQrDrfD7azC4i9BDUF2IsSgAI__4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545889054165-ohbv8tq3vf5i92r5mkjpg8kterjos9b2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545889054165-51etlvcnnoma11mbmh5ml69mm5oldr8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.byahero-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

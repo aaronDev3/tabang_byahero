@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>545889054165-51etlvcnnoma11mbmh5ml69mm5oldr8k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.545889054165-51etlvcnnoma11mbmh5ml69mm5oldr8k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvrk8oXqGNWJGOZLA8zMeRCfknlYRTOFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>545889054165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.byahero-app</string>
+	<key>PROJECT_ID</key>
+	<string>tabangbyahero</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tabangbyahero.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:545889054165:ios:c98c61a8fba5c498f5615c</string>
+</dict>
+</plist>
